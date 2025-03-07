@@ -3,7 +3,7 @@ Version: 1.0.0 (2025) \
 Created by: JustSMN
 
 
-Welcome to QR Code Bot!
+Welcome to QR Code Bot!\
 This Telegram bot generates QR codes from the links you provide.  
 Just send a link, and the bot will create a QR code for you!
 
